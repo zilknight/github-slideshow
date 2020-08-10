@@ -1,15 +1,13 @@
 ---
 layout: slide
-title: "Welcome to our second slid!"
+title: "Welcome to our second slide!"
 ---
-Your text
+line 5
 Use the left arrow to go back
 
-I stage the change OK?
-cant you dectect it?
-
-Commit
-asdsaf
+kjkj
 asd
+asdf
 
-can you detect it now?
+more commit
+
